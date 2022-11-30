@@ -1,4 +1,4 @@
-module github.com/hosea3000/crud
+module github.com/hosea3000/crud/v2
 
 go 1.18
 
